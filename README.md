@@ -9,7 +9,7 @@ The UUID currently matched are:
 
 ## Usage
 
-**You can compile it or use the app-release.apk build you find in /app/release folder**.
+**You can build it by yourself or just use the app-release.apk build you find in /app/release folder**.
 
 Analysis | Link
 ---------|-----
