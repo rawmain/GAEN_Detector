@@ -17,6 +17,6 @@ It can also be used to check if your phone changes of MAC address regularly to a
 
 ## Screenshots
 
-![](photo1.png)
+![](photo1.jpg)
 
-![](photo2.png)
+![](photo2.jpg)

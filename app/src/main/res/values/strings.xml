@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Stop Covid Detector</string>
+    <string name="app_name">GAEN Detector</string>
     <!-- Strings used for fragments for navigation -->
     <string name="dBm">%1$d dBm</string>
 
