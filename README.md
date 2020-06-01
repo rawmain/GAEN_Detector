@@ -1,6 +1,6 @@
 # GAEN Detector
 
-This app displays the beacons received from devices running apps with GAEN support (Google+Apple Exposure Notifications API). Based on STOP COVID DETECTOR by [**Rémy Grünblatt**] (https://remy.grunblatt.org/) . 
+This app displays the beacons received from devices running apps with GAEN support (Google+Apple Exposure Notifications API). Based on STOP COVID DETECTOR by [Rémy Grünblatt] (https://remy.grunblatt.org/) . 
 
 The UUID currently matched are:
 
